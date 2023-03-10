@@ -1,0 +1,13 @@
+OENG1205 is the best
+
+x-105mm
+y-65mm
+z-51mm
+
+Not the same because there is text on all faces and they all have different surface areas
+
+Top diagonal length 123.491 mm
+Right diagonal length 82.620 mm
+Whole box diagonal length 133.608 mm
+
+
